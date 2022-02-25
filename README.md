@@ -8,3 +8,4 @@ Just a collection of links to books and talks I have found useful
 
 ### Uncategorized
 - [Resisting Complexity - Adam Wathan - Laracon US 2018](https://www.youtube.com/watch?v=dfgtKb-VpRk)
+- [Safe operations for high volume postgresql](https://www.braintreepayments.com/blog/safe-operations-for-high-volume-postgresql/)
